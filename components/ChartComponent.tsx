@@ -494,7 +494,7 @@ export default function ChartComponent() {
   };
 
   return (
-    <div style={{ padding: 16, backgroundColor: "#f0f0f0", borderRadius: 8, overflow: "hidden" }}>
+    <div style={{ padding: 16, backgroundColor: "#f0f0f0", borderRadius: 8, }}>
       <div className="flex justify-between items-center mb-6">
         <h1 className="text-2xl font-bold">Chart Dashboard</h1>
       </div>
